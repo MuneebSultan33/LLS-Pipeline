@@ -85,7 +85,7 @@ pip install numpy scipy matplotlib
 **1. Clone or download this repository**
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/LLS-Pipeline.git
+git clone https://github.com/MuneebSultan33/LLS-Pipeline.git
 cd LLS-Pipeline
 ```
 
@@ -170,7 +170,7 @@ This tool aims to be a free, documented, one-command alternative that any lab ca
 **Muhammad Muneeb Sultan**  
 BSc Biotechnology — University of Veterinary and Animal Sciences (UVAS), Lahore, Pakistan  
 Email: muneebbioinformatics369@gmail.com  
-GitHub: github.com/YOUR_USERNAME
+GitHub: github.com/MuneebSultan33
 
 ---
 
